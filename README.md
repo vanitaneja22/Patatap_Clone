@@ -1,2 +1,2 @@
 # Project-Patatap-Clone
-A simple clone Of the Patatap App.
+A simple clone of the Patatap App.
